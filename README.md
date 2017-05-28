@@ -1,2 +1,3 @@
 # Narcissisti.cc
-Feel free to modify at your own will.
+Licensed under an Apache 2.0 License.
+Renaming is not allowed.
